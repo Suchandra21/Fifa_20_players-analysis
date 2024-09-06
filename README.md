@@ -4,20 +4,14 @@
 The primary goal of this project is to perform EDA on a hotel booking dataset and derive meaningful conclusions about booking patterns, customer demographics, and other relevant factors.
 
 ## Contents
- > Handling the duplicate values
-  
- > Handling missing or null errors
 
- > Handling outliers
-
- > Data WRangling and feature engineering
-
- > Exploratory Data Analysis(EDA)-Univariate Analysis, Observations, Bivariate Analysis, 
-   Multivariate Analysis
-
- > Changes to be made for progress in the business
-
- > Concludions
+-Handling the duplicate values  
+-Handling missing or null errors
+-Handling outliers
+-Data WRangling and feature engineering
+-Exploratory Data Analysis(EDA) : Univariate Analysis, Observations, Bivariate Analysis, Multivariate Analysis
+-Changes to be made for progress in the business
+-Conclusions
 
 ## Dataset
 We’ll be working with a dataset containing hotel reservation details. It includes information from both a city hotel and a resort hotel. Here are some key features in the dataset:
@@ -85,6 +79,12 @@ previous_cancellations:Number of previous cancellations
  reservation status:Status of the reservation
 
  reservation_status_date:Date when the status of the reservation was checked
+
+## Analysis
+The analysis done is divided into:
+1)Data Cleaning: Handling missing values, duplicates, and incorrect data types. 
+2)Exploratory Data Analysis (EDA): Visualizing the distribution of ratings, genres, and other features.
+3)Feature Engineering: Creating new features from existing data.
 
 ## Conclusions
 Various important data patterns were extracted.Changes to be made for the betterment are provided which can lead to an improvement.
